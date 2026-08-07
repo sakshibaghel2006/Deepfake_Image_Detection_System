@@ -1,0 +1,7 @@
+{
+  "best_val_auc": 0.9942088888888889,
+  "test_auc": 0.994941111111111,
+  "test_accuracy": 0.9673684210526315,
+  "best_model_path": "D:\\Deepfake_project_3.0\\output\\best_model.pth",
+  "timestamp": "2026-04-24 04:31:44"
+}
